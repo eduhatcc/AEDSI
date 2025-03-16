@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1730380737 source:c:\users\1464597\documents\abstração de dados 31-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"data.h"
+
+1730380681 c:\users\1464597\documents\abstração de dados 31-10\data.h
+
+1730722581 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"data.h"
+	"pessoa.h"
+
+1730721822 c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\data.h
+
+1730898606 c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\pessoa.h
+	"data.h"
+	<string.h>
+
+1730722581 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"data.h"
+	"pessoa.h"
+
+1730721822 c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\data.h
+
+1731271127 c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\abstração de dados\abstração de dados 31-10\pessoa.h
+	"data.h"
+	<string.h>
+

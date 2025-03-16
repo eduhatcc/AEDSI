@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725632328 source:c:\users\1464597\documents\numero_neperiano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

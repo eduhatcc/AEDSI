@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729532033 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - outubro\arranjos\lista 25\numero de vogais em uma string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

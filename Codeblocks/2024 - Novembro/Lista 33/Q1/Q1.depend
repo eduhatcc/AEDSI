@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731454176 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\lista 33\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

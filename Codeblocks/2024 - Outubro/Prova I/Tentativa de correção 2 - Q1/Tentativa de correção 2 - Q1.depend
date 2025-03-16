@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728470456 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - outubro\prova i\tentativa de correção 2 - q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

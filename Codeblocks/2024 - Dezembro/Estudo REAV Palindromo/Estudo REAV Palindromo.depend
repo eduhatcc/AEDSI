@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734457868 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - dezembro\estudo reav palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

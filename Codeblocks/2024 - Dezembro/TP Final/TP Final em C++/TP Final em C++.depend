@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - dezembro\tp final\tp final em c++\main.cpp
+	<iostream>
+
+1733955465 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - dezembro\tp final\tp final em c++\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdexcept>
+	<cctype>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731375830 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\ex revisão prova ii\q1 - recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

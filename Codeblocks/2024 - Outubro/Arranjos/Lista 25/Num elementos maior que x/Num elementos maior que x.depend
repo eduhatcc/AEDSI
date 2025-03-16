@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729272767 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - outubro\arranjos\lista 25\num elementos maior que x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

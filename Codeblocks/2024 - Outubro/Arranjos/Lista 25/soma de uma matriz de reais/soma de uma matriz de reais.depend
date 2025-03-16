@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729277877 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - outubro\arranjos\lista 25\soma de uma matriz de reais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

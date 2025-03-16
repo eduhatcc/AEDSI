@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732832763 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\sbc\monótomos não-triviais maximais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

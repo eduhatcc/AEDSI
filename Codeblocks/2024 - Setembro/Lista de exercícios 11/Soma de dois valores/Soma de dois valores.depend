@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725711588 source:e:\arquivos hd\curso\codeblocks\lista de exercícios 11\soma de dois valores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

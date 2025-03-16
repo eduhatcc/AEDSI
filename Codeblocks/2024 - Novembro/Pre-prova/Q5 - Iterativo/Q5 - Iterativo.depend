@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731433315 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\pre-prova\q5 - iterativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

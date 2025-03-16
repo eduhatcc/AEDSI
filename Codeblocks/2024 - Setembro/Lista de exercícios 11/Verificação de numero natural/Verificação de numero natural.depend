@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726143856 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\lista de exercícios 11\verificação de numero natural\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

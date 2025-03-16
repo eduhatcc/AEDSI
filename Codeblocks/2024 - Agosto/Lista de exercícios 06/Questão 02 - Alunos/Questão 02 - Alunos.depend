@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725541975 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\lista de exercícios 06\questão 02 - alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725015039 source:c:\users\1464597\documents\calcular raiz quadrada\menu de opções\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

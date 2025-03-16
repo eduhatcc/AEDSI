@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725726167 source:e:\arquivos hd\curso\codeblocks\lista de exercícios 11\calcular perímetro de um quadrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

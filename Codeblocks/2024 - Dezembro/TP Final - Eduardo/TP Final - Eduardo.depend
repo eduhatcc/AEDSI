@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733956026 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - dezembro\tp final - eduardo\main.cpp
+	<iostream>
+	<stdbool.h>
+	<chrono>
+	<thread>
+	<fstream>
+

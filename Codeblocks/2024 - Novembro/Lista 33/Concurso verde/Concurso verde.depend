@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732321625 source:c:\users\eduar\onedrive\documentos\curso\aeds\codeblocks\2024 - novembro\lista 33\concurso verde\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<sstream>
+

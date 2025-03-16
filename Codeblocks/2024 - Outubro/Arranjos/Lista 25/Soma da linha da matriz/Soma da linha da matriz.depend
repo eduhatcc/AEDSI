@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729278589 source:c:\users\samsung\onedrive\documentos\curso\aeds\codeblocks\2024 - outubro\arranjos\lista 25\soma da linha da matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
